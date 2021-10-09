@@ -22,3 +22,9 @@ NOTE: Once node modules are ready in local from package.json and folder is visib
 Step 4: Enter the command and run: **npm start**
 
 This will run the script and the project will open on default port on default browser or you can simply run the command in any browser of your choice **http://localhost:3000/**
+
+Hosted URLs:-
+
+https://react-my-burger-samar.web.app/
+
+https://react-my-burger-samar.firebaseapp.com/
